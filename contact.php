@@ -24,17 +24,14 @@ echo "<script>window.location.href ='contact.php'</script>";
 </head>
 
 <body>
-    <!--start-wrap-->
-
-    <!--start-header-->
+   
     <div class="header">
         <div class="wrap">
-            <!--start-logo-->
+          
             <div class="logo">
                 <a href="index.html" style="font-size: 30px;">Hospital Management system</a>
             </div>
-            <!--end-logo-->
-            <!--start-top-nav-->
+            
             <div class="top-nav">
                 <ul>
                     <li><a href="index.html">Home</a></li>
@@ -43,9 +40,9 @@ echo "<script>window.location.href ='contact.php'</script>";
                 </ul>
             </div>
             <div class="clear"> </div>
-            <!--end-top-nav-->
+       
         </div>
-        <!--end-header-->
+     
     </div>
     <div class="clear"> </div>
     <div class="wrap">
@@ -109,7 +106,7 @@ echo "<script>window.location.href ='contact.php'</script>";
             <div class="clear"> </div>
         </div>
     </div>
-    <!--end-wrap-->
+
 </body>
 
 </html>
